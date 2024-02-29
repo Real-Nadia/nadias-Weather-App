@@ -110,11 +110,10 @@ main {
 
 .forecast-icon {
   text-align: center;
-  width: 100%;
-  margin: 0 auto;
-  font-size: 40px;
-  background-color: #c9bbee;
-  border-radius: 5px;
+  width: 60px;
+  margin: 0px auto;
+  display: flex;
+  justify-items: center;
 }
 .forecast-temperatures {
   text-align: center;
